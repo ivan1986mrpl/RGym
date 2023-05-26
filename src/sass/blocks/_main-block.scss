@@ -37,8 +37,7 @@
 		&:hover {
 			@media (any-hover: hover) {
 				color: var(--main-color);
-				background-color: #FFFFFF;
-                border: 2px solid #A92A1D;
+				background-color: rgba(255, 255, 255, 0.75);
 			}
 		}
     }
